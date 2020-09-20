@@ -2,7 +2,7 @@
 
 The computing power of neural networks is one that has harnessed into a vast number of fields and industries. Due to their ability to detect complex patterns and learning how to improve their accuracy, it has been especially effective in the realm of image classification. The medical field has been especially invested in using neural networks for diagnosing patients from medical scans for accuracy and faster turnaround times. The purpose of this project was to develop a neural network that is capable of identifying pneumonia from chest x-rays of patients. Over the course of this project, I reiterated through several designs and architectures attempting to improve overall accuracy and recall for detecting pneumonia.
 
-![xray images](/images/xray_images.png)
+![xray images](/images/xray_images.PNG)
 
 # Data Information:
 
@@ -14,11 +14,11 @@ I initially developed multiple convolutional neural networks(CNNs) with differen
 
 The primary metrics used for evaluating the models were overall accuracy and recall for pneumonia patients. I wanted to develop a model that would not only perform well overall but one that was particularly effective at diagnosing pneumonia correctly. A patient with pneumonia that is incorrectly diagnosed as healthy could suffer serious complications, especially the high risk infants and children from which we have these images from.
 
-![neural network results](/images/Neural_Network_Results.png)
+![neural network results](/images/Neural_Network_Results.PNG)
 
 Out of all the models tested, Xception performed the best in terms of overall accuracy and recall. Xception achieved an 88% overall accuracy and 83% recall on patients with pneumonia.
 
-![Xception_Results](/images/Xception_Results.png)
+![Xception_Results](/images/Xception_Results.PNG)
 
 # Conclusion:
 
