@@ -6,7 +6,7 @@ The computing power of neural networks is one that has harnessed into a vast num
 
 # Data Information:
 
-The dataset used consisted of nearly 6,000 chest x-rays of pediatric patients from the from Guangzhou Women and Children’s Medical Center. The images have already been pre-classified as whether the patient had pneumonia or not. These images were already pre-split into different folders for testing, training, and validation. The dataset provided was taken from Kaggle at the following link: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+The dataset used consisted of nearly 6,000 chest x-rays of pediatric patients from the Guangzhou Women and Children’s Medical Center. The images have already been pre-classified as whether the patient had pneumonia or not. These images were already pre-split into different folders for testing, training, and validation. The dataset provided was taken from Kaggle at the following link: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 # Models and Results:
 
