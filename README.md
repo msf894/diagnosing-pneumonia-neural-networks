@@ -1,6 +1,6 @@
 # Developing Neural Networks for Diagnosing Pneumonia
 
-The computing power of neural networks is one that has harnessed into a vast number of fields and industries. Due to their ability to detect complex patterns and learning how to improve their accuracy, it has been especially effective in the realm of image classification. The medical field has been especially invested in using neural networks for diagnosing patients from medical scans for accuracy and faster turnaround times. The purpose of this project was to develop a neural network that is capable of identifying pneumonia from chest x-rays of patients. Over the course of this project, I reiterated through several designs and architectures attempting to improve overall accuracy and recall for detecting pneumonia.
+The computing power of neural networks is one that has been harnessed into a vast number of fields and industries. Due to their ability to detect complex patterns and learning how to improve their accuracy, it has been especially effective in the realm of image classification. The medical field has been especially invested in using neural networks for diagnosing patients from medical scans for accuracy and faster turnaround times. The purpose of this project was to develop a neural network that is capable of identifying pneumonia from chest x-rays of patients. Over the course of this project, I reiterated through several designs and architectures attempting to improve overall accuracy and recall for detecting pneumonia.
 
 ![xray images](/images/xray_images.PNG)
 
